@@ -1,7 +1,7 @@
 <img width="100%" alt="Ruben Aleman - Full Stack Developer & AI Enthusiast" src="./banner.png" />
 
-<h1 align="center">Hello, I'm Ruben James Aleman</h1>
-<h3 align="center">A Full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> + UTRGV CS & AI Enthusiast</h3>
+<h1 align="center">Software Developer | AI Researcher | Problem Solver</h1>
+<h3 align="center">Building innovative solutions at the intersection of code and AI</h3>
 
 <!--<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">-->
 
@@ -82,8 +82,10 @@
 
 [![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BUDDY26&show_icons=true&theme=radical)](https://github.com/BUDDY26/github-readme-stats)
 
-## <img src="https://img.icons8.com/color/48/000000/repository.png" width="30"/> Popular Repositories
+## <img src="https://img.icons8.com/color/48/000000/repository.png" width="30"/> Projects & Repositories
 
+- 🏆 **[SportsChat+](https://sportschatplus-ehfub6gedrhyfmbt.centralus-01.azurewebsites.net)**: A database-driven web platform for sports enthusiasts
+<!-- More projects coming soon -->
 <!-- Replace these with your actual repositories once created -->
 <!--[![GAN-DCGAN](https://github-readme-stats.vercel.app/api/pin/?username=BUDDY26&repo=GAN-DCGAN&theme=radical)](https://github.com/BUDDY26/GAN-DCGAN)
 [![VAE-Autoencoder](https://github-readme-stats.vercel.app/api/pin/?username=BUDDY26&repo=VAE-Autoencoder&theme=radical)](https://github.com/BUDDY26/VAE-Autoencoder)
