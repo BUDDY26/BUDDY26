@@ -3,7 +3,7 @@
 <h1 align="center">Software Developer | AI Researcher | Problem Solver</h1>
 <h3 align="center">Building innovative solutions at the intersection of code and AI</h3>
 
-<!--<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">-->
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/DVYt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BUDDY26&label=Profile%20views&color=0e75b6&style=flat" alt="BUDDY26" /> </p>
 
@@ -81,6 +81,9 @@
 ## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="30"/> GitHub Stats
 
 [![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BUDDY26&show_icons=true&theme=radical)](https://github.com/BUDDY26/github-readme-stats)
+<img align="right" alt="Computers" width="240" style="margin-left: 80px; margin-right: 0;" src="https://i.gifer.com/YIgb.gif">
+
+
 
 ## <img src="https://img.icons8.com/color/48/000000/repository.png" width="30"/> Projects & Repositories
 
