@@ -81,7 +81,8 @@
 ## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="30"/> GitHub Stats
 
 [![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=BUDDY26&show_icons=true&theme=radical)](https://github.com/BUDDY26/github-readme-stats)
-<img align="right" alt="Computers" width="240" style="margin-left: 80px; margin-right: 0;" src="https://i.gifer.com/YIgb.gif">
+<img align="right" alt="Computers" width="240" style="margin-left: 80px; margin-right: 0; border-radius: 12px;" src="https://i.gifer.com/YIgb.gif">
+
 
 
 
