@@ -1,9 +1,9 @@
 <img width="100%" alt="Ruben Aleman - Full Stack Developer & AI Enthusiast" src="./banner.png" />
 
 <h1 align="center">Hello, I'm Ruben James Aleman</h1>
-<h3 align="center">A Full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> + CS Graduate & AI Enthusiast</h3>
+<h3 align="center">A Full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> + UTRGV CS & AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<!--<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BUDDY26&label=Profile%20views&color=0e75b6&style=flat" alt="BUDDY26" /> </p>
 
@@ -13,7 +13,7 @@
 - 💻 Skilled in **full-stack development** with expertise in PyTorch and TensorFlow frameworks
 <!--- 👨‍💻 Most of my projects are available on ✨<a href="YOUR_PORTFOLIO_URL">my Portfolio Website</a>✨-->
 - 🧠 Passionate about **Generative Models, Image Generation, and Deep Neural Networks**
-- 🏋️ **Fun fact**: I treat Leetcode the same as Workout. No pain no gain!!
+- 🏋️ **Fun fact**: I get more excited about optimizing code than most people get about vacation plans!!
 - 🥅 **2025 Goal**: Advance my expertise in generative AI through research projects
 
 ## <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="30"/> Connect with Me
@@ -41,8 +41,6 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
@@ -87,9 +85,9 @@
 ## <img src="https://img.icons8.com/color/48/000000/repository.png" width="30"/> Popular Repositories
 
 <!-- Replace these with your actual repositories once created -->
-[![GAN-DCGAN](https://github-readme-stats.vercel.app/api/pin/?username=BUDDY26&repo=GAN-DCGAN&theme=radical)](https://github.com/BUDDY26/GAN-DCGAN)
+<!--[![GAN-DCGAN](https://github-readme-stats.vercel.app/api/pin/?username=BUDDY26&repo=GAN-DCGAN&theme=radical)](https://github.com/BUDDY26/GAN-DCGAN)
 [![VAE-Autoencoder](https://github-readme-stats.vercel.app/api/pin/?username=BUDDY26&repo=VAE-Autoencoder&theme=radical)](https://github.com/BUDDY26/VAE-Autoencoder)
-[![U-Net](https://github-readme-stats.vercel.app/api/pin/?username=BUDDY26&repo=U-Net&theme=radical)](https://github.com/BUDDY26/U-Net)
+[![U-Net](https://github-readme-stats.vercel.app/api/pin/?username=BUDDY26&repo=U-Net&theme=radical)](https://github.com/BUDDY26/U-Net)-->
 
 <div align="center" style="background-color: #A2391E; padding: 15px; margin: 10px 0; border-radius: 10px; border: 2px solid #4C2A1E;">
   <i style="color: #F4EADC;">Where full-stack development meets artificial intelligence!</i>
