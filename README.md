@@ -1,4 +1,4 @@
-<img width="100%" alt="Ruben Aleman - Developer & AI Enthusiast" src="./Screenshot 2025-04-06 212908.png" />
+<img width="100%" alt="Ruben Aleman - Full Stack Developer & AI Enthusiast" src="./banner.png" />
 
 <h1 align="center">Hello, I'm Ruben James Aleman</h1>
 <h3 align="center">A Full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> + CS Graduate & AI Enthusiast</h3>
