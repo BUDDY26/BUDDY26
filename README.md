@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on **Generative AI models including DCGANs, VAEs, and U-Net architectures**
 - 🎓 Computer Science graduate with focus on **AI & Deep Learning**
-- 🚀 Accepted into Master's in Computer Science program for further AI specialization
+<!---- 🚀 Accepted into Master's in Computer Science program for further AI specialization-->
 - 💻 Skilled in **full-stack development** with expertise in PyTorch and TensorFlow frameworks
 <!--- 👨‍💻 Most of my projects are available on ✨<a href="YOUR_PORTFOLIO_URL">my Portfolio Website</a>✨-->
 - 🧠 Passionate about **Generative Models, Image Generation, and Deep Neural Networks**
