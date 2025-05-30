@@ -88,7 +88,7 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/repository.png" width="30"/> Projects & Repositories
 
-- 🏆 **[SportsChat+](https://sportschatplus-ehfub6gedrhyfmbt.centralus-01.azurewebsites.net)**: A database-driven web platform for sports enthusiasts
+- 🏆 **[SportsChat+](https://sportschatplus-8239d.web.app)**: A database-driven web platform for sports enthusiasts
 <!-- More projects coming soon -->
 <!-- Replace these with your actual repositories once created -->
 <!--[![GAN-DCGAN](https://github-readme-stats.vercel.app/api/pin/?username=BUDDY26&repo=GAN-DCGAN&theme=radical)](https://github.com/BUDDY26/GAN-DCGAN)
