@@ -91,7 +91,7 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/repository.png" width="30"/> Projects & Repositories
 
-- 🎙️ **[NarrVoce](https://narrvoca.com)** — AI-powered narration tool
+- 🎙️ **[NarrVoca](https://narrvoca.com)** — AI-powered narration tool
 - 🏆 **[SportsChat+](https://sportschatplus-8239d.web.app)** — A database-driven web platform for sports enthusiasts
 
 <div align="center" style="background-color: #A2391E; padding: 15px; margin: 10px 0; border-radius: 10px; border: 2px solid #4C2A1E;">
