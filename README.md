@@ -70,8 +70,6 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/microscope.png" width="30"/> Current Research & Projects
 
-## 🔬 Current Research & Projects
-
 • 🔐 **Federated Learning Security (Research)** — Investigating server-side anomaly detection to identify malicious client updates in federated learning systems. Implementing robust aggregation methods under adversarial and non-IID data distributions using the Flower framework.
 
 • 🛡️ **Prompt Injection Detection with DeBERTa-v3** — Multi-stage fine-tuning pipeline across Safe-Guard, SPML, and NVIDIA Aegis datasets for detecting adversarial prompt attacks. Achieved **86.4% accuracy and 87.2% F1** on the NVIDIA Aegis benchmark.  
