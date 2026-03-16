@@ -10,7 +10,6 @@
 - 🔭 Currently doing **Graduate Research in Federated Learning Security** at UTRGV under Dr. Sergei Chuprov
 - 🎓 **MS Computer Science** – University of Texas Rio Grande Valley (Expected May 2027)
 - 🧠 Specializing in **Reinforcement Learning, Transformer Fine-Tuning, and Multi-Agent LLM Systems**
-- 🚀 Applying to **MS in Artificial Intelligence – University of Texas at Austin**
 - 💻 Building production-grade AI: DQN portfolio optimization, DeBERTa-v3 prompt injection detection, multi-agent clinical workflow automation
 - 🏥 Background as **Clinical Trials Coordinator** — bridging operational systems and AI engineering
 - 🏋️ **Fun fact**: I get more excited about optimizing code than most people get about vacation plans!!
@@ -71,18 +70,25 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/microscope.png" width="30"/> Current Research & Projects
 
-- 🔐 **Federated Learning Security** *(Active Research)* — Developing server-side anomaly detection to identify malicious client updates in FL systems; implementing robust aggregation under adversarial and non-IID distributions using the Flower framework
-- 📈 **Portfolio Optimization via Deep Q-Network (DQN)** — Architected a DQN to automate Buy/Sell/Hold decisions for AAPL, TSLA, and TQQQ modeling markets as a Markov Decision Process; implemented Bellman-based value updates, experience replay, and target-network stabilization across 2017–2024 data
-- 🛡️ **Multi-Stage Fine-Tuning of DeBERTa-v3 for Prompt Injection Detection** — Three-stage domain adaptation pipeline across Safe-Guard, SPML, and NVIDIA Aegis datasets; achieved **86.4% accuracy** and **87.2% F1** on NVIDIA Aegis benchmark
-- 🤖 **Multi-Agent LLM System for Clinical Workflow Automation** — Designed specialized Planning, Design, and Implementation agents with task decomposition and prompt routing; integrated into a Next.js + Prisma backend with OAuth and background scheduling
-- 🎵 **Emotional Analysis of Popular Music via Lyrics Sentiment** — API-driven pipeline analyzing 8,500+ tracks via Spotify and Genius APIs; applied VADER sentiment analysis and PCA for dimensionality reduction
+- 🔐 **Federated Learning Security (Active Research)** — Investigating server-side anomaly detection to identify malicious client updates in federated learning systems; implementing robust aggregation methods under adversarial and non-IID data distributions using the Flower framework.
+
+- 📈 **Deep Q-Network Portfolio Optimization** — Designed a reinforcement learning agent that learns Buy/Sell/Hold policies for AAPL, TSLA, and TQQQ. Implemented experience replay, target networks, and Bellman-based value updates using historical market data (2017–2024).
+
+- 🛡️ **Prompt Injection Detection with DeBERTa-v3** — Multi-stage fine-tuning pipeline across Safe-Guard, SPML, and NVIDIA Aegis datasets for detecting adversarial prompt attacks. Achieved **86.4% accuracy and 87.2% F1** on the NVIDIA Aegis benchmark.
+
+- 🤖 **Multi-Agent Clinical Workflow Automation** — Designed a modular LLM-agent architecture with planning, design, and implementation agents integrated into a **Next.js + Prisma** backend with OAuth authentication and background task scheduling.
+
+- 🎵 **Music Emotion Analysis Pipeline** — Data pipeline analyzing 8,500+ tracks using Spotify and Genius APIs, applying VADER sentiment analysis and PCA to study emotional patterns in popular music.
 
 ## <img src="https://img.icons8.com/color/48/000000/time-machine--v1.png" width="30"/> Earlier Work
 
-- 🧮 **GANs & DCGANs**: Implemented and optimized DCGAN models for image generation
-- 🖼️ **VAE & Autoencoders**: Variational Autoencoders for image reconstruction and generation
-- 🔍 **U-Net Architecture**: U-Net implementation for image segmentation tasks
-- 📊 **MNIST Classification**: Deep learning model benchmarking across multiple architectures
+- 🧮 **GAN & DCGAN Experiments** — Implemented generative adversarial networks for image synthesis and studied training stability improvements.
+
+- 🖼️ **Variational Autoencoders & Autoencoders** — Implemented deep autoencoder architectures for representation learning and image reconstruction.
+
+- 🔍 **U-Net Segmentation Models** — Built convolutional encoder-decoder architectures for image segmentation tasks.
+
+- 📊 **Deep Learning Model Benchmarking** — Compared CNN and dense architectures on MNIST classification tasks.
 
 ## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="30"/> GitHub Stats
 
