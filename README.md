@@ -86,8 +86,6 @@ Repo: `SportsChatPlus-V2`
 
 ## <img src="https://img.icons8.com/color/48/000000/time-machine--v1.png" width="30"/> Earlier Work
 
-## 🧠 Earlier Deep Learning Work
-
 • 🧮 **GAN & DCGAN Experiments** — Implemented generative adversarial networks for image synthesis and studied training stability improvements.  
 Repo: `GAN-vs-DCGAN`
 
