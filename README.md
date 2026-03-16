@@ -70,25 +70,33 @@
 
 ## <img src="https://img.icons8.com/color/48/000000/microscope.png" width="30"/> Current Research & Projects
 
-- 🔐 **Federated Learning Security (Active Research)** — Investigating server-side anomaly detection to identify malicious client updates in federated learning systems; implementing robust aggregation methods under adversarial and non-IID data distributions using the Flower framework.
+## 🔬 Current Research & Projects
 
-- 📈 **Deep Q-Network Portfolio Optimization** — Designed a reinforcement learning agent that learns Buy/Sell/Hold policies for AAPL, TSLA, and TQQQ. Implemented experience replay, target networks, and Bellman-based value updates using historical market data (2017–2024).
+• 🔐 **Federated Learning Security (Research)** — Investigating server-side anomaly detection to identify malicious client updates in federated learning systems. Implementing robust aggregation methods under adversarial and non-IID data distributions using the Flower framework.
 
-- 🛡️ **Prompt Injection Detection with DeBERTa-v3** — Multi-stage fine-tuning pipeline across Safe-Guard, SPML, and NVIDIA Aegis datasets for detecting adversarial prompt attacks. Achieved **86.4% accuracy and 87.2% F1** on the NVIDIA Aegis benchmark.
+• 🛡️ **Prompt Injection Detection with DeBERTa-v3** — Multi-stage fine-tuning pipeline across Safe-Guard, SPML, and NVIDIA Aegis datasets for detecting adversarial prompt attacks. Achieved **86.4% accuracy and 87.2% F1** on the NVIDIA Aegis benchmark.  
+Repo: `deberta-prompt-injection-detection`
 
-- 🤖 **Multi-Agent Clinical Workflow Automation** — Designed a modular LLM-agent architecture with planning, design, and implementation agents integrated into a **Next.js + Prisma** backend with OAuth authentication and background task scheduling.
+• 📈 **Deep Q-Network Portfolio Optimization** — Reinforcement learning system that learns Buy/Sell/Hold policies for financial assets using experience replay, Bellman updates, and target networks across historical market data.  
+Repo: `dqn-reconstruction`
 
-- 🎵 **Music Emotion Analysis Pipeline** — Data pipeline analyzing 8,500+ tracks using Spotify and Genius APIs, applying VADER sentiment analysis and PCA to study emotional patterns in popular music.
+• 🎙️ **NarrVoca — AI Narration Platform** — Full-stack AI narration and storytelling platform built with modern TypeScript architecture and integrated AI tooling.  
+Repo: `NarrVoca`
+
+• 🏆 **SportsChatPlus-V2** — Production-style sports discussion platform with database-driven architecture and modern TypeScript full-stack implementation.  
+Repo: `SportsChatPlus-V2`
 
 ## <img src="https://img.icons8.com/color/48/000000/time-machine--v1.png" width="30"/> Earlier Work
 
-- 🧮 **GAN & DCGAN Experiments** — Implemented generative adversarial networks for image synthesis and studied training stability improvements.
+## 🧠 Earlier Deep Learning Work
 
-- 🖼️ **Variational Autoencoders & Autoencoders** — Implemented deep autoencoder architectures for representation learning and image reconstruction.
+• 🧮 **GAN & DCGAN Experiments** — Implemented generative adversarial networks for image synthesis and studied training stability improvements.  
+Repo: `GAN-vs-DCGAN`
 
-- 🔍 **U-Net Segmentation Models** — Built convolutional encoder-decoder architectures for image segmentation tasks.
+• 🖼️ **Variational Autoencoders & Autoencoders** — Built deep autoencoder architectures for representation learning and image reconstruction tasks.  
+Repos: `Autoencoder`, `VAE-Lab`
 
-- 📊 **Deep Learning Model Benchmarking** — Compared CNN and dense architectures on MNIST classification tasks.
+• 🧩 **Deep Learning Model Experiments** — Early experimentation with neural architectures for classification and representation learning tasks.
 
 ## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="30"/> GitHub Stats
 
