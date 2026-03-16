@@ -68,33 +68,31 @@
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
 </p>
 
-## <img src="https://img.icons8.com/color/48/000000/microscope.png" width="30"/> Current Research & Projects
+## 🔬 Current Research & Projects
 
 • 🔐 **Federated Learning Security (Research)** — Investigating server-side anomaly detection to identify malicious client updates in federated learning systems. Implementing robust aggregation methods under adversarial and non-IID data distributions using the Flower framework.
 
 • 🛡️ **Prompt Injection Detection with DeBERTa-v3** — Multi-stage fine-tuning pipeline across Safe-Guard, SPML, and NVIDIA Aegis datasets for detecting adversarial prompt attacks. Achieved **86.4% accuracy and 87.2% F1** on the NVIDIA Aegis benchmark.  
-Repo: `deberta-prompt-injection-detection`
+Repo: [deberta-prompt-injection-detection](https://github.com/BUDDY26/deberta-prompt-injection-detection)
 
-• 📈 **Deep Q-Network Portfolio Optimization** — Reinforcement learning system that learns Buy/Sell/Hold policies for financial assets using experience replay, Bellman updates, and target networks across historical market data.  
-Repo: `dqn-reconstruction`
+• 📈 **Deep Q-Network Portfolio Optimization** — Reinforcement learning agent that learns Buy/Sell/Hold policies for financial assets using experience replay, Bellman updates, and target networks.  
+Repo: [dqn-reconstruction](https://github.com/BUDDY26/dqn-reconstruction)
 
 • 🎙️ **NarrVoca — AI Narration Platform** — Full-stack AI narration and storytelling platform built with modern TypeScript architecture and integrated AI tooling.  
-Repo: `NarrVoca`
+Repo: [NarrVoca](https://github.com/BUDDY26/NarrVoca)
 
 • 🏆 **SportsChatPlus-V2** — Production-style sports discussion platform with database-driven architecture and modern TypeScript full-stack implementation.  
-Repo: `SportsChatPlus-V2`
+Repo: [SportsChatPlus-V2](https://github.com/BUDDY26/SportsChatPlus-V2)
 
-## <img src="https://img.icons8.com/color/48/000000/time-machine--v1.png" width="30"/> Earlier Work
+## 🧠 Earlier Deep Learning Work
 
 • 🧮 **GAN & DCGAN Experiments** — Implemented generative adversarial networks for image synthesis and studied training stability improvements.  
-Repo: `GAN-vs-DCGAN`
+Repo: [GAN-vs-DCGAN](https://github.com/BUDDY26/GAN-vs-DCGAN)
 
 • 🖼️ **Variational Autoencoders & Autoencoders** — Built deep autoencoder architectures for representation learning and image reconstruction tasks.  
-Repos: `Autoencoder`, `VAE-Lab`
+Repos: [Autoencoder](https://github.com/BUDDY26/Autoencoder), [VAE-Lab](https://github.com/BUDDY26/VAE-Lab)
 
 • 🧩 **Deep Learning Model Experiments** — Early experimentation with neural architectures for classification and representation learning tasks.
-
-## <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="30"/> GitHub Stats
 
 [![Ruben's GitHub stats](https://streak-stats.demolab.com?user=BUDDY26&theme=radical)](https://github.com/BUDDY26)
 <img align="right" alt="Computers" width="240" style="margin-left: 80px; margin-right: 0; border-radius: 12px;" src="https://i.gifer.com/YIgb.gif">
