@@ -9,11 +9,10 @@
 
 - 🔭 Currently doing **Graduate Research in Federated Learning Security** at UTRGV under Dr. Sergei Chuprov
 - 🎓 **MS Computer Science** – University of Texas Rio Grande Valley (Expected May 2027)
-- 🧠 Specializing in **Reinforcement Learning, Transformer Fine-Tuning, and Multi-Agent LLM Systems**
-- 💻 Building production-grade AI: DQN portfolio optimization, DeBERTa-v3 prompt injection detection, multi-agent clinical workflow automation
+- 🧠 Specializing in **Reinforcement Learning, Multi-Agent LLM Systems, and Adversarial ML**
+- 💻 Building AI systems: RAG pipelines, agentic workflows, RL decision agents, and LLM security tooling
 - 🏥 Background as **Clinical Trials Coordinator** — bridging operational systems and AI engineering
-- 🏋️ **Fun fact**: I get more excited about optimizing code than most people get about vacation plans!!
-- 🥅 **2026 Goal**: Advance into applied AI engineering, designing decision systems that optimize workflows under uncertainty
+- 🔍 Focused on systems that reason, adapt, and operate reliably under adversarial conditions
 
 ## <img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="30"/> Connect with Me
 <p align="left">
@@ -70,38 +69,32 @@
 
 ## 🔬 Current Research & Projects
 
+• 🎙️ **NarrVoca-Personal — Agentic Narration System** — Multi-agent RAG pipeline for personalized AI narration and storytelling. Orchestrates retrieval, generation, and evaluation stages across a modular backend built with TypeScript and integrated LLM tooling.  
+Repo: [NarrVoca-Personal](https://github.com/BUDDY26/NarrVoca-Personal)
+
+• 🛡️ **Agentic Pipeline Injection** — Adversarial research into prompt injection propagation through multi-agent LLM pipelines. Evaluates how injected instructions bypass agent boundaries and corrupt downstream outputs across chained reasoning systems.  
+Repo: [agentic-pipeline-injection](https://github.com/BUDDY26/agentic-pipeline-injection)
+
 • 🔐 **Federated Learning Security (Research)** — Investigating server-side anomaly detection to identify malicious client updates in federated learning systems. Implementing robust aggregation methods under adversarial and non-IID data distributions using the Flower framework.
 
-• 🛡️ **Prompt Injection Detection with DeBERTa-v3** — Multi-stage fine-tuning pipeline across Safe-Guard, SPML, and NVIDIA Aegis datasets for detecting adversarial prompt attacks. Achieved **86.4% accuracy and 87.2% F1** on the NVIDIA Aegis benchmark.  
+• 🔬 **Prompt Injection Detection with DeBERTa-v3** — Multi-stage fine-tuning pipeline across Safe-Guard, SPML, and NVIDIA Aegis datasets for detecting adversarial prompt attacks. Achieved **86.4% accuracy and 87.2% F1** on the NVIDIA Aegis benchmark.  
 Repo: [deberta-prompt-injection-detection](https://github.com/BUDDY26/deberta-prompt-injection-detection)
 
 • 📈 **Deep Q-Network Portfolio Optimization** — Reinforcement learning agent that learns Buy/Sell/Hold policies for financial assets using experience replay, Bellman updates, and target networks.  
 Repo: [dqn-reconstruction](https://github.com/BUDDY26/dqn-reconstruction)
 
-• 🎙️ **NarrVoca — AI Narration Platform** — Full-stack AI narration and storytelling platform built with modern TypeScript architecture and integrated AI tooling.  
-Repo: [NarrVoca](https://github.com/BUDDY26/NarrVoca)
-
-• 🏆 **SportsChatPlus-V2** — Production-style sports discussion platform with database-driven architecture and modern TypeScript full-stack implementation.  
-Repo: [SportsChatPlus-V2](https://github.com/BUDDY26/SportsChatPlus-V2)
-
 ## 🧠 Earlier Deep Learning Work
 
-• 🧮 **GAN & DCGAN Experiments** — Implemented generative adversarial networks for image synthesis and studied training stability improvements.  
-Repo: [GAN-vs-DCGAN](https://github.com/BUDDY26/GAN-vs-DCGAN)
+• 🧮 **GAN & DCGAN** — Generative adversarial networks for image synthesis. Repo: [GAN-vs-DCGAN](https://github.com/BUDDY26/GAN-vs-DCGAN)
 
-• 🖼️ **Variational Autoencoders & Autoencoders** — Built deep autoencoder architectures for representation learning and image reconstruction tasks.  
-Repos: [Autoencoder](https://github.com/BUDDY26/Autoencoder), [VAE-Lab](https://github.com/BUDDY26/VAE-Lab)
-
-• 🧩 **Deep Learning Model Experiments** — Early experimentation with neural architectures for classification and representation learning tasks.
+• 🖼️ **Autoencoders & VAEs** — Representation learning and image reconstruction. Repos: [Autoencoder](https://github.com/BUDDY26/Autoencoder), [VAE-Lab](https://github.com/BUDDY26/VAE-Lab)
 
 [![Ruben's GitHub stats](https://streak-stats.demolab.com?user=BUDDY26&theme=radical)](https://github.com/BUDDY26)
 <img align="right" alt="Computers" width="240" style="margin-left: 80px; margin-right: 0; border-radius: 12px;" src="https://i.gifer.com/YIgb.gif">
 
 ## <img src="https://img.icons8.com/color/48/000000/repository.png" width="30"/> Projects & Repositories
 
-- 🎙️ **[NarrVoca](https://narrvoca.com)** — AI-powered narration tool
-- 🏆 **[SportsChat+](https://sportschatplus-8239d.web.app)** — A database-driven web platform for sports enthusiasts
+- 🎙️ **[NarrVoca](https://narrvoca.com)** — Live AI narration platform
 
-<div align="center" style="background-color: #A2391E; padding: 15px; margin: 10px 0; border-radius: 10px; border: 2px solid #4C2A1E;">
-  <i style="color: #F4EADC;">Transforming abstract models into deployable intelligent infrastructure.</i>
-</div>
+---
+*Transforming abstract models into deployable intelligent infrastructure.*
